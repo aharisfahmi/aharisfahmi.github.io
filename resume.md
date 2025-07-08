@@ -1,12 +1,12 @@
 # Resume — Ahmad Haris Fahmi
 
 ## 📌 Profile  
-**Backend Engineer** with over 5 years of experience in building and maintaining backend systems using Golang and PHP.  
+**Backend Engineer** with 6 years of experience in building and maintaining backend systems using Golang and PHP.  
 
 ---
 
 ## 🎯 Summary  
-- 5+ years of hands-on experience in backend development.  
+- 6 years of hands-on experience in backend development.  
 - Skilled in Golang and PHP (Laravel/Lumen).  
 - Proficient in PostgreSQL and MySQL with strong SQL optimization.  
 - Experienced in developing RESTful APIs and microservices.  
@@ -17,7 +17,7 @@
 
 ### PT. Zahir Internasional  
 **Backend Engineer – R&D**  
-_Feb 2022 – Present_  
+_Feb 2022 – Jun 2025_  
 - Maintained and developed backend modules for ERP accounting software.  
 - Worked on PostgreSQL query optimization using both raw SQL and ORM.  
 - Designed and implemented RESTful APIs.  
@@ -57,6 +57,6 @@ _Sep 2014 – Feb 2019_
 
 ## 📫 Contact
 
-- **Email**: aharisfahmi@outlook.com  
+- **Email**: ahmadharisf2019@gmail.com  
 - **LinkedIn**: [linkedin.com/in/aharisfahmi](https://www.linkedin.com/in/aharisfahmi)  
 - **GitHub**: [github.com/aharisfahmi](https://github.com/aharisfahmi)
