@@ -23,6 +23,6 @@ Feel free to connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/aharisfahmi)  
 - [GitHub](https://github.com/aharisfahmi)
-- Email: **ahmadharisf2019@gmail.com**
+- Email: **aharisfahmi@outlook.com**
 
 Thank you for visiting!
